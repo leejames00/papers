@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blockchain 기술 번역 자료를 내면서
 
 BlockchainOS 개발팀 에서 blockchain을 이루는 근간인 consensus protocol의 기본 이론이 되는 자료들을 번역했습니다.
