@@ -1,9 +1,25 @@
-# 논문 번역
+# Blockchain 기술 번역 자료를 내면서
 
-블록체인OS(BlockchainOS)에서 번역한 여러 논문들입니다. 아직 초안이라 수정 및 보완이 필요합니다. 더 나은 번역을 위해 [Pull-Request](https://github.com/bosnet/papers/pulls) 와 [Issue](https://github.com/bosnet/papers/issues)을 적극적으로 이용해주시면 감사하겠습니다.
+BlockchainOS 개발팀 에서 blockchain을 이루는 근간인 consensus protocol의 기본 이론이 되는 자료들을 번역했습니다.
 
-모든 논문 번역은 원문 저자에게 사전에 허락을 받았으며, 모든 법적 책임은.. blah blah
+이런 기술 자료들이 Crypto-Currency를 탐구하는 분들에게 도움이 되었으면 합니다.
 
-# Translated Papers
+게시되는 모든 번역 자료는 원 저자 또는 판권을 가진 출판사의 허락을 얻어 게시되었음을 알립니다.
+
+번역 내용과 기술외 앞으로 게시될 대한 모든 자료 대한 다양한 피드백과 활발한 Pull Request를 기대합니다.
+
+[Pull-Request](https://github.com/bosnet/papers/pulls)
+
+[Issue](https://github.com/bosnet/papers/issues)
+_____
+
+# 번역된 자료들
 
 * [The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus](The-Stellar-Consensus-Protocol/README.md)
+* [Paxos made Simple]()
+
+* [Modeling Bitcoin contracts by Timed Automata]()
+
+* [Stellar Consensus Protocol IEFT Draft]()
+
+* 추가 예정 onsensus-Protocol/README.md)
